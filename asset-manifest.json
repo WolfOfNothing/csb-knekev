@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "https://wolfofnothing.github.io/csb-knekev/static/css/main.67680cf4.chunk.css",
+    "main.js": "https://wolfofnothing.github.io/csb-knekev/static/js/main.f763038b.chunk.js",
+    "main.js.map": "https://wolfofnothing.github.io/csb-knekev/static/js/main.f763038b.chunk.js.map",
+    "runtime-main.js": "https://wolfofnothing.github.io/csb-knekev/static/js/runtime-main.db4bb8af.js",
+    "runtime-main.js.map": "https://wolfofnothing.github.io/csb-knekev/static/js/runtime-main.db4bb8af.js.map",
+    "static/js/2.3c9f7f17.chunk.js": "https://wolfofnothing.github.io/csb-knekev/static/js/2.3c9f7f17.chunk.js",
+    "static/js/2.3c9f7f17.chunk.js.map": "https://wolfofnothing.github.io/csb-knekev/static/js/2.3c9f7f17.chunk.js.map",
+    "static/js/3.8e33666a.chunk.js": "https://wolfofnothing.github.io/csb-knekev/static/js/3.8e33666a.chunk.js",
+    "static/js/3.8e33666a.chunk.js.map": "https://wolfofnothing.github.io/csb-knekev/static/js/3.8e33666a.chunk.js.map",
+    "static/js/4.781c20d2.chunk.js": "https://wolfofnothing.github.io/csb-knekev/static/js/4.781c20d2.chunk.js",
+    "static/js/4.781c20d2.chunk.js.map": "https://wolfofnothing.github.io/csb-knekev/static/js/4.781c20d2.chunk.js.map",
+    "index.html": "https://wolfofnothing.github.io/csb-knekev/index.html",
+    "static/css/main.67680cf4.chunk.css.map": "https://wolfofnothing.github.io/csb-knekev/static/css/main.67680cf4.chunk.css.map",
+    "static/js/2.3c9f7f17.chunk.js.LICENSE.txt": "https://wolfofnothing.github.io/csb-knekev/static/js/2.3c9f7f17.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db4bb8af.js",
+    "static/js/2.3c9f7f17.chunk.js",
+    "static/css/main.67680cf4.chunk.css",
+    "static/js/main.f763038b.chunk.js"
+  ]
+}
